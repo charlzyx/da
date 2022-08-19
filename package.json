@@ -63,7 +63,6 @@
     "@formily/react": "^2.1.12",
     "@formily/reactive": "^2.1.12",
     "@formily/shared": "^2.1.12",
-    "@rlx/eslint-config-react": "^2.1.1",
     "antd": "^4.22.3",
     "react": ">=18.2.0",
     "react-dom": ">=18.2.0",
